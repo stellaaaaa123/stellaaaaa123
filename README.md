@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi 👋, I'm Stella.
+- 🔭 I’m a MSc DCAI student at the Hong Kong University of Science and Technology (Guangzhou).
+- 🌱 I've got my bachelor's degree from Xi’an Jiaotong University (Big Data Management and Application).
+- ⚡ I'm both ambitious and lazy🤗
+- 📫 You can reach me on dxing004@connect.hkust-gz.edu.cn
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=stellaaaaa123&show_icons=true&theme=light&count_private=true)
+  
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=stellaaaaa123" /> </div>
+
+
+
+
 
 <!--
 **stellaaaaa123/stellaaaaa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
