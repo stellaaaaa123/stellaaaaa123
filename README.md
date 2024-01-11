@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Stella.
-- 🔭 I’m a MSc DCAI student at the Hong Kong University of Science and Technology (Guangzhou).
-- 🌱 I've got my bachelor's degree from Xi’an Jiaotong University (Big Data Management and Application).
+- 🔭 I’m a MSc DCAI student at the Hong Kong University of Science and Technology (Guangzhou)
+- 🌱 I've got my bachelor's degree from Xi’an Jiaotong University (Big Data Management and Application)
 - ⚡ I'm both ambitious and lazy hhhhh🤗
 - 📫 You can reach me on dxing004@connect.hkust-gz.edu.cn
 
